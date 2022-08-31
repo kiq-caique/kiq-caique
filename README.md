@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiq-caique
 - 👀 I’m interested in learn and work with web site development, software and apps
-- 🌱 I’m currently learning HTML5, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript, PostgreSQL, REACT, NODE and MongoBD
 - 💞️ I’m looking to collaborate on any job that can provide me with learning
 - 📫 How to reach me +55 62 98252-0093, caique-kiq@hotmail.com or my instagram @kiqcarloshenriquegamaro
 
