@@ -1,5 +1,5 @@
  ## Hi, I’m Carlos Henrique Amaro
-- 👋 My my friends call me Caique
+- 👋 My my friends call me Caique or Kiq
 - 👀 I’m interested in learn and work with web site development, software and apps
 - 🌱 I’m currently learning JavaScript, PostgreSQL, REACT, NODE and MongoBD
 - 💞️ I’m looking to collaborate on any job that can provide me with learning
