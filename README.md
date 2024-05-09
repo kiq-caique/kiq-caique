@@ -1,8 +1,7 @@
  ## Hi, I’m Carlos Henrique Amaro
 - 👋 My my friends call me Caique or Kiq
 - 👀 I’m interested in learn and work with web site development, software and apps
-- 🌱 I currently have experience working with JavaScript, Python, PHP, SQL, Wordpress, PostgreSQL, React, Nodejs and MongoBD
-- 💞️ I currently work as a front-end developer at Omni Saude with Javascript, Typescript, React and Next
+- 🌱 I currently have experience working with JavaScript, Python, MySQL, React, Next, Nodejs and MongoBD
 - 📫 How to reach me +55 62 98252-0093, caique-kiq@hotmail.com or my instagram @kiqcarloshenriquegamaro
 
 <div>
